@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  SampleCoreData
+
+  Created by Maryam on 19/06/1444 AH.
+  
+*/
+"My Review" = "تقيماتي";
+"new Review" = "تقييم جديد";
+"Breakfast" = "إفطار";
+"lunch" = "غداء";
+"dinner" = "عشاء";
+"coffee" = "قهوه";
+"Sweet" = "حلا";
+"Type" = "نوع";
+"Rate" = "التقييم";
+"Location:" = "الموقع:";
+"Name diash" = "اسم الطبق";
+"Location" = "الموقع";
+"Date" = "التاريخ";
+"Describe"= "الوصف";
+"Save" = "حفظ";
+"New Review" = "تقييم جديد";
+"Add Picture" = "اضف صورة";
+"   Add location" = "  اضف الموقع";
+"  Name diash" = "  اسم الطبق";
+"  Describe" = " الوصف"; 
+"Add Describe" = "اضف الوصف";
+"BLOG YOUR FOOD !" = "سجل طعامك المفضل!";
+"Get Started" = "ابدأ";
+"hi" = "مرحب";
