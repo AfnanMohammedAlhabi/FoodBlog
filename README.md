@@ -12,5 +12,8 @@ Create a space for people who want to record their food and track it so they can
 ### Technologies & Tools 
 * CoreData
 
+### Food Blog Demo
+https://user-images.githubusercontent.com/116797266/212458710-a08dfec9-4d9a-4616-b3be-8103a922d453.mov
+
 ### Challenge Summary
 <img width="979" alt="Screenshot 2023-01-14 at 8 52 39 AM" src="https://user-images.githubusercontent.com/116797266/212458462-7c5a8cd6-9039-4238-a335-56ed8279ca54.png">
