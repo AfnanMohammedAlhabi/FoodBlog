@@ -13,6 +13,8 @@ Create a space for people who want to record their food and track it so they can
 
 ### Technologies & Tools 
 * CoreData
+* Accessibility (voice over)
+* Image Picker
 
 ### Food Blog Demo
 https://user-images.githubusercontent.com/116797266/212470334-5c7a3f82-1a66-4500-b125-509d323772e7.mov
@@ -20,4 +22,4 @@ https://user-images.githubusercontent.com/116797266/212470334-5c7a3f82-1a66-4500
 
 
 ### Challenge Summary
-<img width="979" alt="Screenshot 2023-01-14 at 8 52 39 AM" src="https://user-images.githubusercontent.com/116797266/212458462-7c5a8cd6-9039-4238-a335-56ed8279ca54.png">
+<img width="766" alt="AbstractFoodBlog" src="https://user-images.githubusercontent.com/116797266/212470582-c32f2a13-7406-4c61-ac12-acfe79ffa906.png">
