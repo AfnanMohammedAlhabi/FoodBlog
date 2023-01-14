@@ -1,6 +1,6 @@
 # FoodBlog
 
-## The Food Blog application lets users track all the food they have. By creating a new blog, the user can document all of the food, including uploading a picture, categorizing the food, rating the food, and writing a description for it.
+#### The Food Blog application lets users track all the food they have. By creating a new blog, the user can document all of the food, including uploading a picture, categorizing the food, rating the food, and writing a description for it.
 
 ### Big Idea
 Inclusion
